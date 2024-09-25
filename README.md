@@ -7,8 +7,6 @@ If you fork this you can say that you forked a potato.
 
 ![potato](http://i.imgur.com/dRnvRZZ.jpg)
 
-![potato_eyes](https://i.imgur.com/wxVVOxC.gif)
-
 Forking potatoes is an ancient and well-mannered tradition.
 
 The potato first appeared in Peru about ten thousand years ago. The potato was an early food source, and likely a highly traded good in early South America. Having been traded for several thousand years, and enduring much artificial selection, the explorers of the sixteenth and seventeenth century brought the potato back to Europe, where the crop grew. Originally thought to be poisonous and evil, the crop didn't become a major food for another hundred years.
@@ -34,3 +32,5 @@ If you have forked the potato and are looking to submit a pull request, please a
 - Please "mash your potatoes" (squash your PRs with interactive rebase).
 - If a comment inquiring for more information is made on your PR, a reply is expected within a week. The request will be closed if not.
 - To stress: **no non-potato-related items**.
+
+![potato_eyes](src/main/resources/potato-eyes.gif)
